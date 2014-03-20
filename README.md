@@ -1,9 +1,3 @@
-Hbase
-=====
-
-
-
-
 #!/bin/sh
 table_names=( table1
               table2
