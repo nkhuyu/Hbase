@@ -1,4 +1,7 @@
 1. getopt
 2. yarn/hadoop 2.x feature
-3.
+3. hadoop 2.2.0 port
 
+
+a. check yarn-site configure
+b. ask questions: definition of good leads?
